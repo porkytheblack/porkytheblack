@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @porkytheblack
-- 👀 I’m interested in nodejs
+- 👀 I’m interested in Nodejs, React, Vue, React Native, Expo, Firebase, MongoDB, Java, Python, Kotlin
 - 🌱 I’m currently learning webdevelopment
-- 💞️ I’m looking to collaborate on anything related to webdevelopment 
+- 💞️ I’m looking to collaborate on anything related to web and app development
 - 📫 my gmail's porkytheblack@gmail.com
 
 <!---
