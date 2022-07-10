@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @porkytheblack
-- 👀 I’m interested in Nodejs, React, Vue, React Native, Expo, Firebase, MongoDB, Java, Python, Machine Learning
-- 🌱 I’m currently learning Machine Learning with Tensorflow
-- 💞️ I’m looking to collaborate on anything related to web and app development with, NodeJs VueJs, Reactjs, Nextjs or ReactNative and machine learning with tensorflow
+- 👀 I’m a fullstack developer
+- 💞️ I’m looking to collaborate in any fullstack project
 - 📫 my gmail's porkytheblack@gmail.com
 
 <!---
