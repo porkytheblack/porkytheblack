@@ -1,5 +1,4 @@
-![img](https://media.tenor.com/VTBRf9bYiecAAAAC/beltalowda-expanse.gif)
-- Code On!! 😁
+![img](https://content.codecademy.com/courses/learn-swift/dictionaries/morse-code.gif)
 ```ts
 const email = github.user_name + "@gmail.com";
 console.log(`My email is ${email}`)
